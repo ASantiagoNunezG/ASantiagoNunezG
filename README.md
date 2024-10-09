@@ -12,7 +12,7 @@
 
 <br><br>
 
-- :school: I am a `student` at [Carrier of Software Design and Development](https://www.tecsup.edu.pe/carrera/diseno-y-desarrollo-de-software-2/) at [TECSUP](https://www.tecsup.edu.pe/).
+- :school: I am a [Software Design and Development](https://www.tecsup.edu.pe/carrera/diseno-y-desarrollo-de-software-2/) `student` at [TECSUP](https://www.tecsup.edu.pe/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Cybersecurity`.
 - :nerd_face: Always `learning new things`.
