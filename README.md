@@ -12,10 +12,8 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Carrier of Software Design and Development](https://www.tecsup.edu.pe/carrera/diseno-y-desarrollo-de-software-2/) at [TECSUP](https://www.tecsup.edu.pe/).
-- :trophy: 2x `ACPC` Finalist.
+- :school: I am a `student` at [Carrier of Software Design and Development](https://www.tecsup.edu.pe/carrera/diseno-y-desarrollo-de-software-2/) at [TECSUP](https://www.tecsup.edu.pe/).
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Cybersecurity`.
 - :nerd_face: Always `learning new things`.
 <!-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).-->
@@ -245,9 +243,9 @@
 </div>-->
 </details>
 
-</br></br>-->
+</br></br>
 	
-## 🐍 A Snake Eating
+## 🐍 A Snake Eating 
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
