@@ -11,10 +11,11 @@
 <br>
 
 - :school: I am a [Software Designer and Developer](https://www.tecsup.edu.pe/carrera/diseno-y-desarrollo-de-software-2/).
-- :technologist: I love using software as a `solution` for any Problem.
-- :student: I’s a [`TECSUP`'s](https://www.tecsup.edu.pe/), currently I'm learning `Computer Science` and `Cybersecurity`.
+- :technologist: I love using software as a **solution** to any Problem.
+- :graduated: I graduated from [`TECSUP`](https://www.tecsup.edu.pe/).
+- :lock: I’m currently studying `Cybersecurity`.
 - :nerd_face: Always `learning new things`.
-- :boom: You can visit [MY WEBSITE](https://www.asnunezg.com/).
+- :boom: You can visit [my website](https://www.asnunezg.com/).
   
 <br>
 	
