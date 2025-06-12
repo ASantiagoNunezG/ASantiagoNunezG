@@ -9,10 +9,10 @@
 <br>
 
 - :school: I am a [Software Designer and Developer](https://www.tecsup.edu.pe/carrera/diseno-y-desarrollo-de-software-2/).
-- :graduated: I graduated from [`TECSUP`](https://www.tecsup.edu.pe/).
+- :mortar_board: I graduated from [`TECSUP`](https://www.tecsup.edu.pe/).
 - :technologist: I love using software as a **solution** to any Problem.
 - :nerd_face: Always `learning new things`.
-- :lock: I’m currently studying `Cybersecurity`.
+- :lock: I’m currently studying `Cybersecurity` and `Data Science`.
 - :boom: You can visit [my website](https://www.asnunezg.com/).
   
 <br><br>
