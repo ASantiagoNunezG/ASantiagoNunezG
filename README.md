@@ -16,7 +16,20 @@
 - :boom: You can visit [my website](https://www.asnunezg.com/).
   
 <br><br>
-	
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ASantiagoNunezG&show_icons=true&theme=radical" alt="GitHub stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASantiagoNunezG&theme=radical" alt="GitHub streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASantiagoNunezG&layout=compact&theme=radical" />
+  <br>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ASantiagoNunezG&theme=radical" />
+</p>
+
+
 ## 🐍 A Snake Eating 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
