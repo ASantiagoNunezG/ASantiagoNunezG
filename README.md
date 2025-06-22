@@ -22,11 +22,38 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASantiagoNunezG&layout=compact&theme=radical" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ASantiagoNunezG&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASantiagoNunezG&theme=radical" alt="GitHub streak" />
-  <br>
 </p>
+
+```
+                 .88888888:.
+                88888888.88888.
+              .8888888888888888.
+              888888888888888888
+              88' _`88'_  `88888
+              88 88 88 88  88888
+              88_88_::_88_:88888
+              88:::,::,:::::8888
+              88`:::::::::'`8888
+             .88  `::::'    8:88.
+            8888            `8:888.
+          .8888'             `888888.
+         .8888:..  .::.  ...:'8888888:.
+        .8888.'     :'     `'::`88:88888
+       .8888        '         `.888:8888.
+      888:8         .           888:88888
+    .888:88        .:           888:88888:
+    8888888.       ::           88:888888
+    `.::.888.      ::          .88888888
+   .::::::.888.    ::         :::`8888'.:.
+  ::::::::::.888   '         .::::::::::::
+  ::::::::::::.8    '      .:8::::::::::::.
+ .::::::::::::::.        .:888:::::::::::::
+ :::::::::::::::88:.__..:88888:::::::::::'
+  `'.:::::::::::88888888888.88:::::::::'
+        `':::_:' -- '' -'-' `':_::::'`
+
+```
+Thank you! https://asciiart.website/
 
 ## 🐍 A Snake Eating 
 <p align = "center">
