@@ -20,11 +20,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASantiagoNunezG&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASantiagoNunezG&layout=compact&theme=radical&hide=html" />
   <br>
 </p>
-
-```
+<pre>
 							     .88888888:.
 						    	88888888.88888.
 						      .8888888888888888.
@@ -51,6 +50,5 @@
 				 :::::::::::::::88:.__..:88888:::::::::::'
 				  `'.:::::::::::88888888888.88:::::::::'
 					`':::_:' -- '' -'-' `':_::::'`
-
-```
+</pre>
 Thank you! https://asciiart.website/
